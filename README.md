@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rise11 Assignment
+
+The project consists of a fully responsive website build with help of create react app and material ui.
 
 The website is live at https://reynir007.github.io/travelapp/
 
