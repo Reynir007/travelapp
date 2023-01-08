@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.79b579e8.css",
+    "main.js": "/react-gh-pages/static/js/main.05b017ab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Destination-pana.svg": "/react-gh-pages/static/media/Destination-pana.4dcb1e244e0486a00070c80745f0f3ff.svg",
+    "static/media/Traveling-rafiki.svg": "/react-gh-pages/static/media/Traveling-rafiki.7ba052fbe6c1c2ae510f3a8e2cea1a47.svg",
+    "static/media/Virgin_America-Logo.wine.svg": "/react-gh-pages/static/media/Virgin_America-Logo.wine.fb01117d3cee04749df081402279216c.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.79b579e8.css.map": "/react-gh-pages/static/css/main.79b579e8.css.map",
+    "main.05b017ab.js.map": "/react-gh-pages/static/js/main.05b017ab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b579e8.css",
+    "static/js/main.05b017ab.js"
+  ]
+}
